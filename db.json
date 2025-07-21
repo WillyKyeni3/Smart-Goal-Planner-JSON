@@ -5,9 +5,98 @@
       "name": "Sibling Checkup",
       "targetAmount": "5000",
       "savedAmount": 5000,
-      "category": "Emergency",
+      "category": "Health",
       "deadline": "2025-07-30",
       "createdAt": "2025-07-21T11:46:04.207Z"
+    },
+     {
+
+      "id": "1",
+
+      "name": "Travel Fund - Japan",
+
+      "targetAmount": 5000,
+
+      "savedAmount": 3200,
+
+      "category": "Travel",
+
+      "deadline": "2025-12-31",
+
+      "createdAt": "2025-08-15T11:48:04.207Z"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "name": "Emergency Fund",
+
+      "targetAmount": 10000,
+
+      "savedAmount": 7500,
+
+      "category": "Emergency",
+
+      "deadline": "2026-06-30",
+
+      "createdAt": "2025-09-01T12:46:04.207Z"
+
+    },
+
+    {
+
+      "id": "3",
+
+      "name": "New Laptop",
+
+      "targetAmount": 1500,
+
+      "savedAmount": 1500,
+
+      "category": "Education",
+
+      "deadline": "2025-07-20",
+
+      "createdAt": "2025-07-10T11:50:04.207Z"
+
+    },
+
+    {
+
+      "id": "4",
+
+      "name": "Down Payment - House",
+
+      "targetAmount": 50000,
+
+      "savedAmount": 12000,
+
+      "category": "Retirement",
+
+      "deadline": "2027-12-31",
+
+      "createdAt": "2025-02-01T10:46:04.207Z"
+
+    },
+
+    {
+
+      "id": "5",
+
+      "name": "Diani Trip",
+
+      "targetAmount": 8000,
+
+      "savedAmount": 600,
+
+      "category": "Vecation",
+
+      "deadline": "2025-09-15",
+
+      "createdAt": "2025-06-01T12:46:04.207Z"
+
     }
   ]
 }
